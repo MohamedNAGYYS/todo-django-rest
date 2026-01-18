@@ -1,14 +1,2 @@
 ﻿# todo-django-rest
 
-# Django Todo List API
-
-A simple Todo List REST API built with Django REST Framework
-
-## Features
-- Create, read, update, and delete tasks
-- User authentication
-- Mark tasks as complete
-- Filter and search tasks
-
-## Installation
-1. Clone the repository:
